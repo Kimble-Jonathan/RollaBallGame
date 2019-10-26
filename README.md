@@ -6,7 +6,7 @@ W, A, S, D to move
 collect all the cubes to win
  
  # Changes
- *Added scoring system
- *Added Name system
- *Added Speed system
- *Added Round system
+ * Added scoring system
+ * Added Name system
+ * Added Speed system
+ * Added Round system
